@@ -1,0 +1,2 @@
+test:  midterm1_makeup.tex
+	pdflatex midterm1_makeup.tex
